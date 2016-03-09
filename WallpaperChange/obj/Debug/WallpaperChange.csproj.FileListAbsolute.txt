@@ -1,0 +1,12 @@
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\WallpaperChange.exe
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\WallpaperChange.pdb
+D:\Experiments\WallpaperChange\WallpaperChange\obj\Debug\WallpaperChange.csprojResolveAssemblyReference.cache
+D:\Experiments\WallpaperChange\WallpaperChange\obj\Debug\WallpaperChange.exe
+D:\Experiments\WallpaperChange\WallpaperChange\obj\Debug\WallpaperChange.pdb
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\Hammock.ClientProfile.dll
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\Newtonsoft.Json.dll
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\TweetSharp.dll
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\Hammock.ClientProfile.pdb
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\Newtonsoft.Json.xml
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\TweetSharp.pdb
+D:\Experiments\WallpaperChange\WallpaperChange\bin\Debug\WallpaperChange.exe.config
